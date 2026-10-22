@@ -3,7 +3,7 @@ Python 3.10.7
 cmake version 4.4.3
 GNU Make 3.81
 arm-none-eabi-gcc.exe (GNU Arm Embedded Toolchain 10.3-2021.10) 10.3.1 20210824 (release)
-1.108.2
-picotool v2.3.1 (Windows, GNU-16.2.0, Release)
+code 1.108.2
+picotool v2.3.0 (Windows, GNU-16.1.0, Release)
 pico-sdk 2.3.0
 PICO_SDK_PATH=C:\Repositories\pico\pico-sdk
