@@ -1,0 +1,15 @@
+--- Tool versions ---
+git: NOT FOUND
+python: NOT FOUND
+%%i
+cmake: NOT FOUND
+%%i
+make: NOT FOUND
+%%i
+arm-none-eabi-gcc: NOT FOUND
+picotool: NOT FOUND
+pico-sdk: %%i
+pico-sdk: TAG NOT FOUND
+PICO_SDK_PATH: NOT SET OR PATH INVALID
+PICO_SDK_PATH: NOT SET OR PATH INVALID
+PICO_SDK_PATH=C:\Repositories\pico\pico-sdk
