@@ -1,15 +1,9 @@
---- Tool versions ---
-git: NOT FOUND
-python: NOT FOUND
-%%i
-cmake: NOT FOUND
-%%i
-make: NOT FOUND
-%%i
-arm-none-eabi-gcc: NOT FOUND
-picotool: NOT FOUND
-pico-sdk: %%i
-pico-sdk: TAG NOT FOUND
-PICO_SDK_PATH: NOT SET OR PATH INVALID
-PICO_SDK_PATH: NOT SET OR PATH INVALID
+﻿git version 2.55.0.windows.5
+Python 3.10.7
+cmake version 4.4.3
+GNU Make 3.81
+arm-none-eabi-gcc.exe (GNU Arm Embedded Toolchain 10.3-2021.10) 10.3.1 20210824 (release)
+1.108.2
+picotool v2.3.1 (Windows, GNU-16.2.0, Release)
+pico-sdk 2.3.0
 PICO_SDK_PATH=C:\Repositories\pico\pico-sdk
